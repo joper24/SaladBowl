@@ -1,5 +1,6 @@
 # SaladBowl
 iOS Application using SwiftUI - Salad Bowl Group Game
+
 This project is a hobby of mine that I have been working on in my spare time in order to improve my iOS development skills.
 
 # What is salad bowl?
