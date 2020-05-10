@@ -13,7 +13,7 @@ For this round, a player picks a word from the bowl and gives 2 clues to get the
 In this next round, the player picks a word from the salad bowl and must act it out without talking. Once it’s guessed, they pick a new word and continues until their 1 minute turn is up. The team with the most points after all three rounds wins.
 
 # App Goal
-The goal of this application is to create an app for people to play this, without the need for paper.
+The goal is to create an app for people to play Salad Bowl with their phones, and without the need for paper. It would also allow for a cleaner and better way for people to play.
 
 # App Design
 https://www.figma.com/file/lUplT2hhTQjoZhqR2CabjJ/Salad-Bowl-Prototype-1.0
